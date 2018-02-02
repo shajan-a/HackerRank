@@ -1,0 +1,5 @@
+c:\users\shajan.abdul\documents\visual studio 2015\Projects\HackerRank\Scope\bin\Debug\Scope.exe.config
+c:\users\shajan.abdul\documents\visual studio 2015\Projects\HackerRank\Scope\bin\Debug\Scope.exe
+c:\users\shajan.abdul\documents\visual studio 2015\Projects\HackerRank\Scope\bin\Debug\Scope.pdb
+c:\users\shajan.abdul\documents\visual studio 2015\Projects\HackerRank\Scope\obj\Debug\Scope.exe
+c:\users\shajan.abdul\documents\visual studio 2015\Projects\HackerRank\Scope\obj\Debug\Scope.pdb
