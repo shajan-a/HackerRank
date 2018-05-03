@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTLevelOrderTraverse", "BS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDeletion", "LinkedListDeletion\LinkedListDeletion.csproj", "{212E02BB-8A13-4D34-AC40-148B035696B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{C1B8EC24-4F60-4A95-996D-0F6FE0E6609A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArraySegmentPieces", "SumArraySegmentPieces\SumArraySegmentPieces.csproj", "{84027FF9-8F0F-41B3-BD61-20115185BEF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{212E02BB-8A13-4D34-AC40-148B035696B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212E02BB-8A13-4D34-AC40-148B035696B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212E02BB-8A13-4D34-AC40-148B035696B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B8EC24-4F60-4A95-996D-0F6FE0E6609A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B8EC24-4F60-4A95-996D-0F6FE0E6609A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B8EC24-4F60-4A95-996D-0F6FE0E6609A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B8EC24-4F60-4A95-996D-0F6FE0E6609A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84027FF9-8F0F-41B3-BD61-20115185BEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84027FF9-8F0F-41B3-BD61-20115185BEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84027FF9-8F0F-41B3-BD61-20115185BEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84027FF9-8F0F-41B3-BD61-20115185BEF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

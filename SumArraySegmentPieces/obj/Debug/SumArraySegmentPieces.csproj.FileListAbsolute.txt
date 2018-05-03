@@ -1,0 +1,6 @@
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\bin\Debug\SumArraySegmentPieces.exe.config
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\bin\Debug\SumArraySegmentPieces.exe
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\bin\Debug\SumArraySegmentPieces.pdb
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\obj\Debug\SumArraySegmentPieces.csprojResolveAssemblyReference.cache
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\obj\Debug\SumArraySegmentPieces.exe
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\SumArraySegmentPieces\obj\Debug\SumArraySegmentPieces.pdb

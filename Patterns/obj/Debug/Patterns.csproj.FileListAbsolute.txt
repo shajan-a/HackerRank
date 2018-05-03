@@ -1,0 +1,6 @@
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\bin\Debug\Patterns.exe
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\bin\Debug\Patterns.pdb
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\obj\Debug\Patterns.exe
+C:\Users\shajan.abdul\Documents\Visual Studio 2015\Projects\HackerRank\Patterns\obj\Debug\Patterns.pdb
